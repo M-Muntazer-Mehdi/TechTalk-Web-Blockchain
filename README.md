@@ -1,190 +1,96 @@
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/x2Kj4RZ/final.png" alt="Image 1">
+    </td>
+  </tr>
+</table>
+
 ## Table of Contents
 
-- [Project Description](#project-description)
+- [Project Description](#techtalk-web-blockchain)
 - [Pages](#pages)
-  - [Home](#home)
+  - [Home](#page-1-home)
   - [Blockchain Working](#blockchain-working)
   - [What is Cryptocurrency](#what-is-cryptocurrency)
   - [More Details](#more-details)
-  - [About Us](#about-us)
-  - [HTML Tags Used](#html-tags-used)
 
-# TechTalk-Web-Blockchain
+# TechTalk Web Blockchain
 This repository, 'TechTalk-Web-Blockchain,' showcases a web-based communication technology project with a primary focus on blockchain technology. Through a simple HTML and CSS representation, this project aims to demonstrate the integration of blockchain into communication technology.
 
 ## Pages
 
-### Home
+### Page 1: Home
 
-![Home Page Image](https://i.ibb.co/r7W87G2/Slide4.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/r7W87G2/Slide4.jpg" alt="Image 1">
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/jVvJF7k/Slide5.jpg" alt="Image 2">
+    </td>
+  </tr>
+</table>
+
+
+- **Header Section:** The webpage includes a header featuring a navigation menu for easy access to different sections. It also incorporates branding elements and a user-friendly search bar.
+
+- **Educational Content:** The main content area is organized into rows, each consisting of an image and accompanying descriptive text. These sections explain various aspects of blockchain technology, highlight its importance, and its role in the realm of cryptocurrency.
+
+- **Styling and Presentation:** The visual elements of the webpage are styled and formatted using a CSS file, ensuring a cohesive and visually appealing presentation.
+
+<br>
+
 
 ### Blockchain Working
 
-![Home Page Image](https://i.ibb.co/r7W87G2/Slide4.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/2n2ghNT/Slide7.jpg" alt="Image 1">
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/HxbHLZ2/Slide8.jpg" alt="Image 2">
+    </td>
+  </tr>
+</table>
+
+- The provided HTML code defines a structured and informative section of a webpage dedicated to explaining the workings of blockchain technology. It starts with an introductory heading and paragraph, followed by a list of three essential technologies. A dropdown feature provides users with the option to access additional details. The content is visually enhanced with a two-column table featuring images. The section then transitions to describe the process of blockchain transactions, including the creation of transaction blocks and their authorization.
+
+<br>
 
 ### What is Cryptocurrency
 
-![Home Page Image](https://i.ibb.co/r7W87G2/Slide4.jpg)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/9YT5mmb/Slide9.jpg" alt="Image 1">
+    </td>
+  </tr>
+</table>
+
+- The HTML code utilizes <div> elements to create structured containers for organizing and styling content on the webpage. These <div> elements are assigned specific class names to control their appearance, layout, and positioning. The "main," "color," "row," "column," "row2," and "column2" divs help create a visually appealing and organized presentation of information.
+- Furthermore, a <table> element is used to display images in a two-column format, aligning them effectively within the layout. Images are placed within (table header) tags, resulting in a structured and visually pleasing arrangement of cryptocurrency images and descriptions.
+
+<br>
+<br>
 
 ### More Details
 
-![Home Page Image](https://i.ibb.co/r7W87G2/Slide4.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/Kh9bLnV/Slide10.jpg" alt="Image 1">
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/ZXqZGdK/Slide11.jpg" alt="Image 2">
+    </td>
+  </tr>
+</table>
 
-### About Us
+- **video:** This is the HTML5 video element used to embed a video in the webpage. In this code, it includes the "controls" attribute, which displays playback controls like play, pause, and volume. The <video> element also contains a <source> element within it.
+- **source:** This is nested within the <video> element and specifies the video source file and its type using the "src" and "type" attributes. In this code, the source file is "final.mp4," and the type is "video/mp4."
+- **poster attribute:"" The "poster" attribute specifies an image that is displayed as the video's thumbnail or poster image before the video is played. In this code, the "poster" attribute references the image file "final.png."
 
-![Home Page Image](https://i.ibb.co/r7W87G2/Slide4.jpg)
-
-
-
-<!-- HTML Tags Used -->
-## HTML Tags Used
-
-### `<!DOCTYPE html>`
-Specifies the document type and version (HTML5).
-
-### `<html>`
-The root element that contains all other HTML elements.
-
-### `<head>`
-Contains metadata and links to external resources.
-
-### `<meta>`
-Provides metadata about the HTML document.
-
-### `<title>`
-Sets the title of the web page, displayed in the browser's title bar.
-
-### `<link>`
-Links to external resources, such as stylesheets.
-
-### `<style>`
-Defines inline CSS styles.
-
-### `<script>`
-Embeds JavaScript code or links to external scripts.
-
-### `<body>`
-Contains the visible content of the web page.
-
-### `<header>`
-Represents the header section of the page.
-
-### `<nav>`
-Defines a navigation menu.
-
-### `<main>`
-Specifies the main content of the page.
-
-### `<section>`
-Divides the content into sections.
-
-### `<article>`
-Defines self-contained content, like blog posts.
-
-### `<aside>`
-Represents content that is tangentially related to the content around it.
-
-### `<footer>`
-Contains the footer of the page.
-
-### `<div>`
-A generic container for grouping and styling elements.
-
-### `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
-Headings with different levels of importance.
-
-### `<p>`
-Paragraphs for text content.
-
-### `<a>`
-Creates hyperlinks to other pages or resources.
-
-### `<img>`
-Embeds images in the page.
-
-### `<ul>`
-Creates an unordered list.
-
-### `<ol>`
-Creates an ordered list.
-
-### `<li>`
-Defines list items within `<ul>` or `<ol>.
-
-### `<dl>`
-Creates a definition list.
-
-### `<dt>`
-Defines a term or name in a definition list.
-
-### `<dd>`
-Provides the definition of a term in a definition list.
-
-### `<table>`
-Creates a table.
-
-### `<tr>`
-Defines a table row.
-
-### `<th>`
-Represents table header cells.
-
-### `<td>`
-Defines table data cells.
-
-### `<form>`
-Defines an HTML form for user input.
-
-### `<input>`
-Specifies form input elements (text boxes, buttons, checkboxes, etc.).
-
-### `<label>`
-Labels form elements.
-
-### `<textarea>`
-Creates a multi-line text input field.
-
-### `<button>`
-Defines a clickable button.
-
-### `<select>`
-Creates a dropdown list.
-
-### `<option>`
-Defines an option within a `<select>.
-
-### `<hr>`
-Inserts a horizontal rule or line.
-
-### `<br>`
-Inserts a line break.
-
-### `<iframe>`
-Embeds external web content within a frame.
-
-### `<video>`
-Embeds video content.
-
-### `<audio>`
-Embeds audio content.
-
-### `<canvas>`
-Creates a drawable area for graphics.
-
-### `<svg>`
-Defines Scalable Vector Graphics content.
-
-### `<strong>`
-Specifies strong importance for text.
-
-### `<em>`
-Emphasizes text.
-
-### `<span>`
-A generic inline container for styling purposes.
-
-### `<b>`
-Applies bold formatting to text.
-
-### `<i>`
-Applies italic formatting to text.
+<br><br>
