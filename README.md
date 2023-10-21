@@ -4,7 +4,6 @@ This repository, 'TechTalk-Web-Blockchain,' showcases a web-based communication 
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Table of Contents](#table-of-contents)
 - [Pages](#pages)
   - [Home](#home)
   - [Blockchain Working](#blockchain-working)
@@ -18,6 +17,8 @@ This repository, 'TechTalk-Web-Blockchain,' showcases a web-based communication 
 ## Pages
 
 ### Home
+
+![Home Page Image](https://ibb.co/TvCjvBM)
 
 Description of the Home page and its content.
 
