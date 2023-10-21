@@ -1,0 +1,28 @@
+body{
+background-color:black;
+}
+h1{
+color:white;
+font-family:Times New Roman;
+text-align:center;
+}
+h2{
+color:white;
+font-family:Times New Roman;
+text-align:left;
+}
+h3{
+color:white;
+font-family:Times New Roman;
+text-align:left;	
+}
+p{
+color:white;
+font-family:Times New Roman;
+font-size:20px;
+text-align:justified;
+}
+ul li{
+color:white;
+display:incline-block;
+}
