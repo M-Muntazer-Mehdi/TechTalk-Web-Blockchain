@@ -18,7 +18,7 @@ This repository, 'TechTalk-Web-Blockchain,' showcases a web-based communication 
 
 ### Home
 
-![Home Page Image](https://ibb.co/TvCjvBM)
+![Home Page Image](https://i.ibb.co/r7W87G2/Slide4.jpg)
 
 Description of the Home page and its content.
 
