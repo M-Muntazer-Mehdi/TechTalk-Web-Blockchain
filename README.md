@@ -3,15 +3,35 @@ This repository, 'TechTalk-Web-Blockchain,' showcases a web-based communication 
 
 ## Table of Contents
 
-- [About](#about)
+- [Project Description](#project-description)
+- [Table of Contents](#table-of-contents)
+- [Pages](#pages)
+  - [Home](#home)
+  - [Blockchain Working](#blockchain-working)
+  - [What is Cryptocurrency](#what-is-cryptocurrency)
+  - [More Details](#more-details)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
+## Pages
 
-Explain the purpose and goals of your project.
+### Home
+
+Description of the Home page and its content.
+
+### Blockchain Working
+
+Description of the Blockchain Working page and its content.
+
+### What is Cryptocurrency
+
+Description of the What is Cryptocurrency page and its content.
+
+### More Details
+
+Description of the More Details page and its content.
 
 ## Installation
 
@@ -22,6 +42,12 @@ Provide instructions on how to install and set up your project.
 Explain how to use your project and include any relevant screenshots or videos.
 
 ## Contributing
+
+Explain how others can contribute to your project, if applicable.
+
+## License
+
+This project is licensed under the [License Name](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 Explain how others can contribute to your project, if applicable.
 
