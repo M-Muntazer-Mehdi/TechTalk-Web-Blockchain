@@ -1,0 +1,334 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: Century Gothic;
+}
+
+header{
+	height :320px;
+	background-position:center;
+	background-image: url('../Images/final 1.jpg');
+}
+
+ul{
+	float : right;
+	margin-top: 25px;
+	margin-right: 20px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration:none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition : 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color : #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color : #000;
+}
+
+.logo img{
+	margin-left:1%;
+	float:left;
+	width:150px;
+	height:justify;
+}
+
+.main{
+	width:1300px;
+	margin:auto;
+}
+
+.title {
+	position: absolute;
+	top:21%;
+	left:2.5%;
+	color:white;
+	font-size: 15px;
+}
+
+.title h1{
+	font-family: Time New Roman;	
+}
+
+.search-container {
+    text-decoration:none;
+	color: #fff;
+	padding: 2px 20px;
+	border: 1px solid transparent;
+	transition : 0.6s ease;
+  float: right;
+}
+
+.search-container button {
+  float: right;
+  padding: 0px -1px;
+  margin-top: 2px;
+  font-size: 20px;
+  border: 1px solid transparent;
+  height: 18px;
+  cursor: pointer;
+      display: block;
+    text-align: left;
+}
+
+.search-container button i img{
+	height: 18px;
+}
+
+.button {
+	position : absolute;
+	top:40%;
+	left:48%;
+	transform : translate(-50%,-50%);
+}
+
+.button1{
+	border: 1px solid #fff;
+	padding : 10px 30px;
+	color : #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+
+.button1:hover{
+	background-color: #fff;
+	color : #000;
+}
+
+.color {
+	background-color:black;
+}
+
+.topic {
+	position: absolute;
+	top:18%;
+	left:28%;
+	color:white;
+	font-family: Century Gothic;
+	font-size: 40px;
+}
+
+.topic h1{
+	font-family: Time New Roman;
+}
+
+.column {
+	margin-left:50px;
+	margin-top: 40px;
+  float: left;
+  width: 39%;
+  padding: 3%;
+  height: justify;
+  background-color:white;
+  opacity:0.7;
+}
+
+.column h3 {
+	color:black;
+}
+
+.column p {
+	color:black;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h3 {
+	font-family: Times New Roman;
+	font-size:6opx;
+}
+
+p {
+	font-family: Times New Roman;
+	font-size:18px;    
+	text-align:justify;
+}
+
+.row img {
+  margin-right:130px;
+  margin-top:90px;
+  float: right;
+  width: 30%;
+  height: 230px;
+}
+
+.column2 {
+	margin-right:50px;
+  float: right;
+  width: 41.5%;
+  height: 122px;
+    padding: 3%;
+  background-color:white;
+    opacity: 0.7;
+}
+
+.row2:after {
+  content: "";
+  display: flex;
+  clear: both;
+}
+
+.column2 p {
+	color:black;
+}
+
+.row2 img {
+  margin-left:140px;
+  margin-top: 40px;
+  float: left;
+  width: 30%;
+  height: 130px;
+}
+
+.column3 {
+  margin-left:50px;
+  float: left;
+  width: 39%;
+  height: 218px;
+  background-color:white;
+  opacity: 0.7;
+  padding: 3%;
+}
+
+.column3 h3 {
+	color:black;
+}
+
+.column3 p {
+	color:black;
+}
+
+.row3:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h3 {
+	font-family: Times New Roman;
+	font-size:25px;
+		color:black;
+}
+
+p {
+	font-family: Times New Roman;
+	font-size:18px;
+	color:black;           
+	text-align:justify;
+}
+
+.row3 img {
+  margin-right:160px;
+  margin-top:40px;
+  float: right;
+  width: 30%;
+  padding: 0px;
+  height: 230px;
+}
+
+.column4 {
+  margin-left:50px;
+  float: left;
+  width: 39%;
+  height: 130px;
+  padding: 3%;
+  background-color:white;
+  opacity: 0.7;
+}
+
+.row4:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column4 p {
+	color:black;
+}
+
+.column4 h3 {
+	color:black;
+}
+
+p {
+	font-family: Times New Roman;
+	font-size:18px;
+	color:black;           
+	text-align:justify;
+}
+
+.row4 img {
+  margin-right:230px;
+  margin-top: 30px;
+  float: right;
+  width: 20%;
+  padding: 0px;
+  height: 170px;
+}
+
+.column5 img{
+  margin-left:30px;
+  margin-bottom:3%;
+  margin-top:3%;
+  float: left;
+  width: 30%;
+  height:20%;
+}
+
+.row5:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column6 {
+  margin-right:50px;
+  float: right;
+  width: 41.5%;
+  padding: 3%;
+  height: 145px;
+  background-color:white;
+  opacity: 0.7;
+}
+
+.row6:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column6 p {
+	color:black;
+}
+
+p {
+	font-family: Times New Roman;
+	font-size:18px;
+	color:black;           
+	text-align:justify;
+}
+
+.row6 img {
+  margin-left:195px;
+  margin-top: 17px;
+  float: left;
+  width: 25%;
+  padding: 0px;
+  height: 190px;
+}
