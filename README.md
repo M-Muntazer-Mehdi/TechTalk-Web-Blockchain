@@ -89,8 +89,8 @@ This repository, 'TechTalk-Web-Blockchain,' showcases a web-based communication 
   </tr>
 </table>
 
-- **video:** This is the HTML5 video element used to embed a video in the webpage. In this code, it includes the "controls" attribute, which displays playback controls like play, pause, and volume. The <video> element also contains a <source> element within it.
-- **source:** This is nested within the <video> element and specifies the video source file and its type using the "src" and "type" attributes. In this code, the source file is "final.mp4," and the type is "video/mp4."
+- **video:** This is the HTML5 video element used to embed a video in the webpage. In this code, it includes the "controls" attribute, which displays playback controls like play, pause, and volume. The '<video>' element also contains a <source> element within it.
+- **source:** This is nested within the '<video>' element and specifies the video source file and its type using the "src" and "type" attributes. In this code, the source file is "final.mp4," and the type is "video/mp4."
 - **poster attribute:"" The "poster" attribute specifies an image that is displayed as the video's thumbnail or poster image before the video is played. In this code, the "poster" attribute references the image file "final.png."
 
 <br><br>
